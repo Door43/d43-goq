@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[goq:home|Door43 (goq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-goq|d43-goq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-goq/archive/master.zip|d43-goq.zip]]
+
+**Recent Changes**
+{{changes>ns = goq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/goq|Ethnologue data]]
+
